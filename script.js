@@ -1,5 +1,5 @@
 function showAlert() {
-    alert("Obrigado por visitar nossa página!");
+    alert("Obrigado por visitar nossa página! <br> Estamos construindo esse projeto");
 }
 
 
